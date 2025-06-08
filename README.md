@@ -1,3 +1,3 @@
 # Stock-Predictor-2024
 
-Current Version of Quantiative Stock Predicotr Using Real Market Data
+Current Version of Quantitative Stock Predictor Using Real Market Data
